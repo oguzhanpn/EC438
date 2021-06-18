@@ -9,7 +9,8 @@ With group consisting of:
 # Group Experiment (Public Choice Game) :
 
 
-# Group Project (Impact of Tax Salience on Economic Behaviour):
+# Group Project:
+## Impact of Tax Salience on Economic Behaviour
 
 [Here](Tax_project_codes.html) is the project report
 
