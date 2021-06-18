@@ -12,6 +12,8 @@ With group consisting of:
 
 [Here](Tax_project_codes.html) is the project report.
 
+[Here](EC 438 deney (Yanıtlar) (1).xlsx) is the data of the experiment.
+
 [Here](Tax_project_codes.html) is the codes in html format.
 
 [Here](Tax_project_codes.ipynb) is the related notebook file.
