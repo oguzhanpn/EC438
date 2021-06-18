@@ -18,7 +18,7 @@ With group consisting of:
 
 
 # 2. Group Experiment: 
-### Public Choice Game:
+### Public Choice Game:
 
 [Here](Public Choice Game.docx.pdf) is the project report
 
