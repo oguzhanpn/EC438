@@ -19,6 +19,7 @@ With group consisting of:
 
 # 2. Group Experiment: 
 ### Public Choice Game:
+
 [Here](Public Choice Game.docx.pdf) is the project report
 
 [Here](codes.ipynb - Colaboratory.pdf) is the codes in html format
